@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tidal Screen Simulator</string>
+    <string name="module_description">Simula una pantalla física para Tidal en dispositivos sin pantalla</string>
+</resources>
+
